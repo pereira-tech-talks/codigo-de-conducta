@@ -2,7 +2,7 @@
 
 ## 1. Purpose
 
-A primary goal of `colombia.dev` is to be inclusive to the largest number of
+A primary goal of `PereiraTechTalks` is to be inclusive to the largest number of
 contributors, with the most varied and diverse backgrounds possible. As such, we
 are committed to providing a friendly, safe and welcoming environment for all,
 regardless of gender, sexual orientation, ability, ethnicity, socioeconomic
@@ -11,7 +11,7 @@ status, and religion (or lack thereof).
 This code of conduct outlines our expectations for all those who participate in
 our community, as well as the consequences for unacceptable behavior.
 
-We invite all those who participate in `colombia.dev` to help us create safe and
+We invite all those who participate in `PereiraTechTalks` to help us create safe and
 positive experiences for everyone.
 
 ## 2. Open [Source/Culture/Tech] Citizenship
@@ -84,12 +84,12 @@ the case of a paid event).
 If you are subject to or witness unacceptable behavior, or have any other
 concerns, please notify a community organizer as soon as possible.
 
-Email: hola@colombia-dev.org
+Email: pereiratechtalks@gmail.com
 
 Additionally, community organizers are available to help community members
 engage with local law enforcement or to otherwise help those experiencing
 unacceptable behavior feel safe. In the context of in-person events, organizers
-will also provide escorts as desired by the person experiencing distress.
+will also try to provide escorts as desired by the person experiencing distress.
 
 ## 7. Addressing Grievances
 
@@ -116,7 +116,7 @@ events.
     moderator creates an inappropriate situation, they should expect less leeway
     than others.
 
-In the `colombia.dev` community we strive to go the extra step to look out for 
+In the `PereiraTechTalks` community we strive to go the extra step to look out for 
 each other. Don't just aim to be technically unimpeachable, try to be your best 
 self. In particular, avoid flirting with offensive or sensitive issues, 
 particularly if they're off-topic; this all too often leads to unnecessary 
@@ -148,8 +148,10 @@ members.
 
 ## 9. Contact info
 
-- hola@colombia-dev.org
-- [@colombia_dev](https://twitter.com/colombia_dev)
+- pereiratechtalks@gmail.com
+- [Meetup.com](https://www.meetup.com/es-ES/Pereira-Tech-Talks/)
+- [www.facebook.com/PerTechTalks](https://www.facebook.com/PerTechTalks/)
+- [@PerTechTalks](https://twitter.com/PerTechTalks) 
 
 ## 10. License and attribution
 
